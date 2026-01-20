@@ -1,4 +1,4 @@
-# TCGA Biolinks Download Code for TCGA Projects
+# TCGA Biolinks Download Code for Multiomics
 This pipeline downloads miRNA, mRNA, and DNA Methylation data for TCGA Project Codes. It will also report summary statistics in the log file to determine how many patients have multiple modalities of data available. 
 ## Usage Instructions and Requirements 
 
