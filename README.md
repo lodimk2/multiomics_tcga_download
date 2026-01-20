@@ -16,4 +16,4 @@ The two inputs required for ```TCGA_download.R``` are the TCGA project code and 
 
 ```Rscript TCGA_download.R -p $PROJECT -d "$BASE_DIR" | tee -a "$LOG_FILE"```. 
 
-
+To run the SLURM script simply change the command arguments for the $PROJECT, $BASE_DIR and $LOG_FILE to the desired inputs. 
