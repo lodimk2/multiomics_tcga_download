@@ -16,4 +16,4 @@ The two inputs required for ```TCGA_download.R``` are the TCGA project code and 
 
 ```Rscript TCGA_download.R -p $PROJECT -d "$BASE_DIR" | tee -a "$LOG_FILE"```. 
 
-## Expected Outputs 
+
